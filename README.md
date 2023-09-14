@@ -22,7 +22,7 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com"><img alt="Email" title="GMail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="100" height="50" /></a>
+  <a href="mailto:s.parvaniani@gmail.com"><img alt="Email" title="GMail" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="100" height="50" /></a>
   <a href="https://www.linkedin.com/in/samira-parvaniani/"><img title="LinkedIn" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" width="100" height="50" /></a>
 </p>
 
